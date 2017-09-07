@@ -17,3 +17,8 @@ http://www.infoq.com/cn/articles/application-of-spark--in-jingdong-supply-chain-
 
 http://www.infoq.com/cn/articles/depth-learning-build-accurate-recommendation-system
 http://blog.csdn.net/qq_19600291/article/details/73645137
+
+### 大数据资料
+
+- 大数据产品列表 https://zhuanlan.zhihu.com/p/21752798
+- 数据仓库历史 https://zhuanlan.zhihu.com/p/26815743
