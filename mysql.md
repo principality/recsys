@@ -41,14 +41,19 @@ https://www.zhihu.com/question/53494990 分布式DB四问
   - 读写分离 *
   - 垂直分库 *
   - 水平拆分
-- https://github.com/MyCATApache/Mycat-Server
-- proxysql
+- proxysql/maxscale
 - atlas
+- mycat https://github.com/MyCATApache/Mycat-Server
+  - 分布式算法实现不成熟，缺乏理论级和工业级支持
+  - 缺少优化器，无法实现算法优化
 
 ### mysql cluster
 
 - innodb cluster
 - alisql x-cluster
+- galera cluster
+- percona cluster
+- mariadb cluster
 
 ### distribute sql
 
