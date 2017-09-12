@@ -25,17 +25,19 @@ https://yq.aliyun.com/articles/198435
 
 ### 组件套餐
 
-- collector & clear toolkit
+- collector & etl
   - spider
   - data gateway
   - sqoop
   - flume
+  - canal
 - hbase/hbase-indexer/hadoop
 - spark
   - spark hbase connector
   - deeplearning4j
-- zeppelin
-- kafka
+  - Oozie ?
+- zeppelin/superset/saiku
+- kafka/gobbin -> hdfs?
 - spring boot
 
 **常见的开发场景**
@@ -63,3 +65,11 @@ https://yq.aliyun.com/articles/198435
 - nifty, thrift client/server
 - boilerpipe, html extractor
 - hanlp, corenlp, mallet
+
+### 实施的坑
+
+- 操作系统redhat/centos，注意要上raid(raid2, raid5?)，防止存储出问题
+- 存储是否要上集中式存储，磁盘阵列或其他？
+- 采用成熟的套件，cloudera/CDH?
+- 需要对平台进行监控，配合成熟的监控工具？
+-
