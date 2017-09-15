@@ -1,11 +1,5 @@
 # 大数据
 
-### 商业智能
-
-
-### 数据仓库
-
-
 ### 应用场景
 
 大数据相关的场景比较多，常见的有：
@@ -26,21 +20,24 @@ https://yq.aliyun.com/articles/198435
 ### 组件套餐
 
 - collector & etl
-  - spider
-  - data gateway
   - sqoop
   - flume
+  - spider
+  - data gateway
   - canal
 - hbase/hbase-indexer/hadoop
 - spark
+  - spark sql jdbc/hbase rdd
   - spark hbase connector
   - deeplearning4j
   - Oozie ?
 - zeppelin/superset/saiku
 - kafka/gobbin -> hdfs?
 - spring boot
+- nagios?
 
 **常见的开发场景**
+
 - 数据接入
 - hbase索引优化
 - spark算法及实现
@@ -72,4 +69,3 @@ https://yq.aliyun.com/articles/198435
 - 存储是否要上集中式存储，磁盘阵列或其他？
 - 采用成熟的套件，cloudera/CDH?
 - 需要对平台进行监控，配合成熟的监控工具？
--
