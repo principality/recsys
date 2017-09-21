@@ -10,6 +10,10 @@
 - https://my.oschina.net/BreathL/blog/62519
 - https://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy2/
 
+### 推荐算法数据源
+
+- http://www.cnblogs.com/wentingtu/p/3579803.html 含电影评分、书籍评分、笑话评分、新闻评分
+
 ### 技术杂谈
 
 - http://www.infoq.com/cn/articles/user-portrait-collaborative-filtering-for-recommend-systems
