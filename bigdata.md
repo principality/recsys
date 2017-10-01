@@ -17,6 +17,19 @@ https://yq.aliyun.com/articles/198435
 - 大数据产品列表 https://zhuanlan.zhihu.com/p/21752798
 - 数据仓库历史 https://zhuanlan.zhihu.com/p/26815743
 
+### 数据源
+
+分布式数据源的发展方向是统一的数据接口？SQL + UDF？
+
+- 数据（考虑各种数据源的支持）
+  - 单机数据库（分表分库是第一步，参考MyCAT/ActorDB）
+  - NoSQL（KV类，参考tispark）
+  - 分布式数据库
+- 文件源（HADOOP）
+- 流式日志
+- 海量小文件系统：文档（文本、WORD、PDF、HTML、报表）
+- 图像/音频/视频
+
 ### 组件套餐
 
 - collector & etl
