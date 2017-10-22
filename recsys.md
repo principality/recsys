@@ -4,6 +4,7 @@
 
 - https://amundtveit.com/2016/11/20/recommender-systems-with-deep-learning/
 - https://www.zhihu.com/question/31302695
+- http://easyrec.org/recommendation-engine
 
 ### 协同过滤算法
 
